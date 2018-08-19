@@ -28,6 +28,7 @@ input[type=number] {
   text-align: center;
   font-family: Asap, sans-serif;
   border: 0;
+  outline: none;
 
 }
 
